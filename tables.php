@@ -1,8 +1,8 @@
 <?php
-$servidor = "fdb1028.awardspace.net";
-$usuario = "3600452_test";
-$password = "potatosMaximus-13";
-$base_datos = "3600452_test";
+$servidor = "mysql.railway.internal";
+$usuario = "root";
+$password = "jafnMKIOeaJAoJzjjBJOtCYOMBJEEOip";
+$base_datos = "railway";
 
 // Crear conexión
 $conn = new mysqli($servidor, $usuario, $password, $base_datos);
