@@ -1,8 +1,8 @@
 <?php
-$servidor = "mysql.railway.internal";
-$usuario = "root";
-$password = "jafnMKIOeaJAoJzjjBJOtCYOMBJEEOip";
-$base_datos = "railway";
+$servidor = "${{MySQL.MYSQLHOST}}";
+$usuario = "${{MySQL.MYSQLUSER}}";
+$password = "${{MySQL.MYSQLPASSWORD}}";
+$base_datos = "${{MySQL.MYSQLDATABASE}}";
 
 // Crear conexión
 $conn = new mysqli($servidor, $usuario, $password, $base_datos);
