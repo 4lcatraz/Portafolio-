@@ -45,6 +45,7 @@
           <li><a href="./about.html" title="">03 : About me</a></li>
           <li><a href="./contact.html" title="">04 : Contact</a></li>
           <li><a href="./tables.php" title="">04 : Tables</a></li>
+           <li><a href="http://endors3d.mypressonline.com/" title="">05 : Tables</a></li>
           <!--<li><a href="./components.html" title="">05 : Components</a></li>-->
         </ul>
 
